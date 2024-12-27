@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.username {
+    color: white;
+}
+
+.h100 {
+    height: calc(100vh - 64px)
+}
+
+.cRed {
+    color: red;
+}
